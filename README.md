@@ -1,2 +1,7 @@
-# PoseMod-Mobile
-Port of PC for Android
+# PoseMod Mobile
+Port de PC para Android
+
+Requiere
++ CLEO4
++ CLEO+
++ AML (Android)
